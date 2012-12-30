@@ -41,15 +41,17 @@ Appears in: Shining South
 			* |              |\	 \----O>     /|
 			* |	----------------------------- |
 
-	* FacePi (face_evolutionary_generator :: hopfield_recurrent_ccv_trainer; ascii face-maps written in coffeejson): For a dragon that can love /you/ back.
-	* FlyPi ([pi-motor](https://github.com/rakeshpai/pi-motor); #see AR Drone 2.0 since it gets "miraculous" testimonials) : For fine-flight movement (two motors). Consider ``cputhrottle`` to choke the Pi into subtlty.
+	* CLI for GesturePi (for quickly and in automated fashion A/B testing the UI; gestures/commands should tell us something about positive results in manipulating image-tiles)
+		* #notes For A/B testing reality-feedback system
+	* FacePi (evolutionary_face_fitness_generator :: hopfield_recurrent_ccv_trainer; ascii face-maps written in coffeejson): For a dragon that can love /you/ back; 
+	* FlyPi ([pi-motor](https://github.com/rakeshpai/pi-motor); #see AR Drone 2.0 since it gets "miraculous" testimonials) : For fine-flight movement (two motors). Consider ``cputhrottle`` to choke the Pi into subtlty. #idea Raj has suggested a gyroscope. #consider [MPU-6050 6DOF](http://www.ebay.com/itm/MPU-6050-6DOF-3-Axis-Gyroscope-Accelerometer-Module-for-Arduino-DIY-/280952652299)
 	* Pyrrative (Sui generis species generation from narrative models; TBD): For the character-trait edge in evolutionary scenarios with environment activity strictures over agent-object dynamics.
 		* Web scraping (http://www.thefullwiki.org/Dragon_(Dungeons_%26_Dragons)#Rattelyr_dragon, http://quiz.thefullwiki.org/Dragon_(Dungeons_&_Dragons)?print=1) with #pandoc; e.g. $ pandoc -f html -t json ${url} #with some grep)
-	* Epigenetic Constraints (@see http://www.nature.com/nbt/journal/v30/n8/full/nbt.2269.html, http://www.nature.com/news/artificial-jellyfish-built-from-rat-cells-1.11046): For discussion of lowest cost materials for a biosynthetic shell/husk.
+	* Epigenetic Constraints (@see [1](http://www.nature.com/nbt/journal/v30/n8/full/nbt.2269.html, http://www.nature.com/news/artificial-jellyfish-built-from-rat-cells-1.11046)): For discussion of lowest cost materials for a biosynthetic shell/husk.
 	* Species descriptive topolgy system based on ┌ through ╋  at [copypastecharacter.com](http://copypastecharacter.com/all-characters)
 	* DNS Ideas: ``http://drag.one/``, ``http://humano.ide/``, ``http://en.te/, http://mindflaye.re/`` (the "e" indicates W3C PROV "Entity" status of ontology)
-	* Hardwar: Dual Altoids Tin+Cedar Wood Exoskelaton Chassis mounting polymer solar cell (PSC)/graphene wing-span redundant nanopower grid system and synchronized visuodata input camera systems [1](http://physicsworld.com/cws/article/news/2012/jan/26/graphene-could-be-a-perfect-absorber-of-light)
-	* Emotion Trending System based on Descriptive Markup Analysis [2](http://www.w3.org/TR/emotionml/) on GPS Tracking of localized Twitter/Foursquare Profiles
+	* Hardwar: Dual Altoids Tin+Cedar Wood Exoskelaton Chassis mounting polymer solar cell (PSC)/graphene wing-span redundant nanopower grid system and synchronized visuodata input camera systems [2](http://physicsworld.com/cws/article/news/2012/jan/26/graphene-could-be-a-perfect-absorber-of-light)
+	* Emotion Trending System based on Descriptive Markup Analysis [3](http://www.w3.org/TR/emotionml/) on GPS Tracking of localized Twitter/Foursquare Profiles
 	* Consider changing project name to "django_dragon"
 	* Need pseudoendocrine system layout #hardwar
 	* Need audition system
