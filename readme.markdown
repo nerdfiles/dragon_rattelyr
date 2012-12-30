@@ -1,4 +1,4 @@
-#[django_dragon_rattelyr](https://github.com/nerdfiles/dragon_rattelyr) | [▣](FIGURE.jpg) [┌](http://www.scribd.com/doc/78401264/53/Dragon-Rattelyr) [t](http://twitter.com/RattelyrDragon) | [REQS](dragon_rattelyr/.requirements) [LICENSE](dragon_rattelyr/LICENSE)
+#[django_dragon_rattelyr](https://github.com/nerdfiles/dragon_rattelyr) | [▣](FIGURE.jpg) [┌](http://www.scribd.com/doc/78401264/53/Dragon-Rattelyr) [t](http://twitter.com/RattelyrDragon) | [REQS](dragon_rattelyr/blob/master/.requirements) [LICENSE](dragon_rattelyr/blob/master/LICENSE)
 
 #ID
 
@@ -62,5 +62,5 @@
 
 #LICENSE
 
-See [LICENSE](dragon_rattelyr/LICENSE).
+See [LICENSE](dragon_rattelyr/blob/master/LICENSE).
 
