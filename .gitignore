@@ -1,0 +1,7 @@
+*.pyc
+*.py~
+settings.py
+*.gitignore~
+*.markdown~
+LICENSE~
+*.swp
