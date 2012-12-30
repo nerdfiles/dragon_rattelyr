@@ -13,6 +13,12 @@ Appears in: Shining South
 
 #note Something bs4 might give after stripping.
 
+#TEAM
+
+1. nerdfiles (http://nerdfiles.net, [@filesofnerds](http://twitter.com/filesofnerds), [github](http://github.com/nerdfiles))
+2. brainix (brainix@gmail.com, [@brainix](http://twitter.com/brainix), [github](http://github.com/brainix))
+3. gourneau (http://josh.gourneau.com/, [@gourneau](http://twitter.com/gourneau), [github](http://github.com/gourneau))
+
 #REQS
 
   1. [ccv](http://libccv.org/post/introducing-ccv-milestone/) (for FacePi)
