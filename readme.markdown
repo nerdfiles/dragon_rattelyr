@@ -1,17 +1,17 @@
-#[django_dragon_rattelyr](https://github.com/nerdfiles/dragon_rattelyr) [▣](FIGURE.jpg) [┌](http://www.scribd.com/doc/78401264/53/Dragon-Rattelyr) [t](http://twitter.com/RattelyrDragon) | [REQS](.requirements) [LICENSE](LICENSE)
+#[django_dragon_rattelyr](https://github.com/nerdfiles/dragon_rattelyr) | [▣](FIGURE.jpg) [┌](http://www.scribd.com/doc/78401264/53/Dragon-Rattelyr) [t](http://twitter.com/RattelyrDragon) | [REQS](.requirements) [LICENSE](LICENSE)
 
 #ID
 
-Rattelyr dragon
-Breath weapon: cone of fire
-Terrain: desert, the forest, grassy plains
-Alignment: lawful evil
-Image: http://www.wizards.com/dnd/images/ssouth_gallery/84369.jpg
-Notes: it is unusually short-lived for a dragon
-Appears in: Shining South
-@source http://www.thefullwiki.org/Dragon_(Dungeons_%26_Dragons)#Rattelyr_dragon
+		Rattelyr dragon
+		Breath weapon: cone of fire
+		Terrain: desert, the forest, grassy plains
+		Alignment: lawful evil
+		Image: http://www.wizards.com/dnd/images/ssouth_gallery/84369.jpg
+		Notes: it is unusually short-lived for a dragon
+		Appears in: Shining South
 
-#note Something bs4 might give after stripping.
+* \#source http://www.thefullwiki.org/Dragon_(Dungeons_%26_Dragons)#Rattelyr_dragon
+* \#note Something bs4 might give after stripping.
 
 #TEAM
 
