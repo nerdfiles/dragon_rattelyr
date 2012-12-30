@@ -21,9 +21,13 @@ Appears in: Shining South
 
 #REQS
 
-  1. [ccv](http://libccv.org/post/introducing-ccv-milestone/) (for FacePi)
-  2. [pareidoloop](http://iobound.com/pareidoloop/) (for FacePi)
-  3. D&D Profile -> Twitter Web Presence/Identity 
+1. [ccv](http://libccv.org/post/introducing-ccv-milestone/) (for FacePi)
+2. [pareidoloop](http://iobound.com/pareidoloop/) (for FacePi)
+3. D&D Profile -> Twitter Web Presence/Identity 
+
+#NOTES
+
+1. Twitter BG: http://t.wallpaperweb.org/wallpaper/nature/1600x1200/Deer_Cave_Mulu_National_Park_Borneo_Malaysia.jpg from http://community.allhiphop.com/discussion/comment/4251952/#Comment_4251952
 
 #IDEAS
 
@@ -55,4 +59,8 @@ Appears in: Shining South
 1. pandoc -f html -t json "http://www.thefullwiki.org/Dragon_(Dungeons_%26_Dragons)#wikipedia_Pyroclastic_dragon
 2. py -c "from bs4 import BeautifulSoup;" #get #id'd content from pandoc
 3. ...
+
+#LICENSE
+
+See [LICENSE](LICENSE).
 
