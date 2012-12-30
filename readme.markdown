@@ -1,4 +1,4 @@
-#django_dragon_rattelyr [▣](FIGURE.jpg) [┌](http://www.scribd.com/doc/78401264/53/Dragon-Rattelyr) [t](http://twitter.com/RattelyrDragon) | [REQS](.requirements) [LICENSE](LICENSE)
+#[django_dragon_rattelyr](https://github.com/nerdfiles/dragon_rattelyr) [▣](FIGURE.jpg) [┌](http://www.scribd.com/doc/78401264/53/Dragon-Rattelyr) [t](http://twitter.com/RattelyrDragon) | [REQS](.requirements) [LICENSE](LICENSE)
 
 #ID
 
