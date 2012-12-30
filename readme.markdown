@@ -1,4 +1,4 @@
-#django_dragon_rattelyr [▣](http://www.wizards.com/dnd/images/ssouth_gallery/84369.jpg) [┌](http://www.scribd.com/doc/78401264/53/Dragon-Rattelyr) [t](http://twitter.com/RattelyrDragon) | [REQS](.requirements) [LICENSE](LICENSE)
+#django_dragon_rattelyr [▣](http://www.wizards.com/dnd/images/ssouth_gallery/84369.jpg) [┌](http://www.scribd.com/doc/78401264/53/Dragon-Rattelyr)#Rattelyr_dragon) [t](http://twitter.com/RattelyrDragon) | [REQS](.requirements) [LICENSE](LICENSE)
 
 #ID
 
@@ -15,8 +15,8 @@ Appears in: Shining South
 
 #REQS
 
-  1. [ccv](http://libccv.org/post/introducing-ccv-milestone/)
-  2.
+  1. [ccv](http://libccv.org/post/introducing-ccv-milestone/) (for FacePi)
+  2. [pareidoloop](http://iobound.com/pareidoloop/) (for FacePi)
 
 #IDEAS
 
