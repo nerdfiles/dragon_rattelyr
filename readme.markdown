@@ -49,7 +49,7 @@
 * Species descriptive topolgy system based on ┌ through ╋  at [copypastecharacter.com](http://copypastecharacter.com/all-characters)
 * DNS Ideas: ``http://drag.one/``, ``http://humano.ide/``, ``http://en.te/, http://mindflaye.re/`` (the "e" indicates W3C PROV "Entity" status of ontology)
 * Hardwar: Dual Altoids Tin+Cedar Wood Exoskelaton Chassis mounting polymer solar cell (PSC)/graphene wing-span redundant nanopower grid system and synchronized visuodata input camera systems[3](http://physicsworld.com/cws/article/news/2012/jan/26/graphene-could-be-a-perfect-absorber-of-light).
-* Emotion Trending System based on Descriptive Markup Analysis[3](http://www.w3.org/TR/emotionml/) on GPS Tracking of localized Twitter/Foursquare Profiles.
+* Emotion Trending System based on Descriptive Markup Analysis[4](http://www.w3.org/TR/emotionml/) on GPS Tracking of localized Twitter/Foursquare Profiles; consider Spinoza's affection-displacement model as an anticipation of Moral Error Theory: a moral predicate context-retention framework for Agent/Entity realization of moral facts, grounded on a meta-ethical imperative logic conceptually informed by Moral Reliablism.
 * Consider changing project name to "django_dragon".
 * Need pseudoendocrine system layout #hardwar.
 * Need audition system.
