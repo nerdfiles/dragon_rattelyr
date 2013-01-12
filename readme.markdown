@@ -42,7 +42,8 @@
         * |	----------------------------- |
 
 * CLI for GesturePi (for quickly and in automated fashion A/B testing the UI; gestures/commands should tell us something about positive results in manipulating image-tiles); \#notes For A/B testing reality-feedback system
-* FacePi (evolutionary_face_fitness_generator :: hopfield_recurrent_ccv_trainer; ascii face-maps written in coffeejson): For a dragon that can love /you/ back; 
+* FacePi (evolutionary_face_fitness_generator :: hopfield_recurrent_ccv_trainer; ascii face-maps written in coffeejson): For a dragon that can love /you/ back;  
+   Application declarative prototype: &lt; script src = &quot;ad-1.js&quot; rel = &quot;http://www.w3.org/TR/emotionml/&quot; &gt;&lt; /script &gt;
 * FlyPi ([pi-motor](https://github.com/rakeshpai/pi-motor); #see AR Drone 2.0 since it gets "miraculous" testimonials) : For fine-flight movement (two motors). Consider ``cputhrottle`` to choke the Pi into subtlty. #idea Raj has suggested a gyroscope. #consider [MPU-6050 6DOF](http://www.ebay.com/itm/MPU-6050-6DOF-3-Axis-Gyroscope-Accelerometer-Module-for-Arduino-DIY-/280952652299)[[0](http://www.bitwizard.nl/wiki/index.php/MPU-6050_sensor_connected_to_Raspberry_Pi)].
 * Pyrrative (Sui generis species generation from narrative models; TBD): For the character-trait edge in evolutionary scenarios with environment activity strictures over agent-object dynamics; web scraping ([fullwiki](http://www.thefullwiki.org/Dragon_(Dungeons_&_Dragons)#Rattelyr_dragon), ["hotspot quizzes"](http://quiz.thefullwiki.org/Dragon_(Dungeons_&_Dragons)?print=1)) on dragons with #pandoc; e.g. $ pandoc -f html -t json ${url} #with some grep)
 * Epigenetic Constraints (@see [[1](http://www.nature.com/nbt/journal/v30/n8/full/nbt.2269.html, http://www.nature.com/news/artificial-jellyfish-built-from-rat-cells-1.11046)]): For discussion of lowest cost materials for a biosynthetic shell/husk.
